@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/photo3.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,24 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Product Designing at Kraftr",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "At Kraftr, my creative endeavors span the spectrum of product design and the enchanting realm of UI/UX. I weave visual tales through illustrations that dance across social media platforms and advertisements, where every stroke and pixel tells a story. In the captivating world of marketing, I wear multiple hats, seamlessly blending creativity and strategy to bring ideas to life.",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Working Comittee Member at Enactus",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Fueled by my fervor for social entrepreneurship, I enthusiastically contribute to the vibrant Enactus club on campus. Within this dynamic community, I engage in crafting compelling reports and curating visually stunning designs to elevate their social media presence.",
   },
   {
-    title: "My Resume Site",
+    title: "Member of ACM-W",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Immersed in the captivating realms of coding and web development, my passion has seamlessly woven me into the vibrant fabric of the ACM-W club. Here, amidst the digital symphony, I not only hone my skills but also dance with newfound opportunities that gracefully waltz into my realm.",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Speaker at Blank 101",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Stepping onto the Blank 101 stage not only ignites my confidence but also offers a dynamic platform to articulate and share my perspectives.",
   },
 ];
 
